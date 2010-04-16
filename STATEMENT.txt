@@ -1,0 +1,70 @@
+Dan Paluska
+Statement of Research.
+
+Public Information Appliances: Shared Media for Shared Spaces. Memory for Physical Space.
+
+Abstract:
+
+We've seen the staying power of the traditional media system, and promising workings of the internet (headless collaborative efforts) so we ask: what might the internet become?
+
+How do we enable more of what the internet has showed as glimpses of, but delivered unevenly: democratic participation, equalization of power, access to information and networks, small business opportunities online and offline, increased understanding of each other, connectedness, accountability.
+
+Current media systems, including the internet, are heavily consolidated. Despite active dialog on the web, television and movies still dominate the media landscape in terms of influence. Despite active and thriving online community projects such as Linux, Wikipedia, and many others, our physical spaces are still heavily privatized and regulated.
+
+What are the opportunities available if you want to do social activism, or just be a business person and provide a media service the market isn’t currently providing? How can you extend the analogies from successful online communities into action where it matters: to our shared physical spaces?
+
+
+Hypothesis: A world readable and writeable history or log file enables collaboration.  All successful web based collaborations have such a file (much like courtroom records, bank transactional histories, stock exchange reports, or wire reporting). What would happen if we enabled physical spaces (barber shops, universities, public plazas) with the same feature? What if everyone who uses this space (customer, student, citizen) could view and contribute to telling the story of this place?
+
+
+Currently anyone with a laptop or a smartphone can contribute to an online community. Twitter's success brought a large number of people into the dialogue by allowing normal mobile phones to contribute to the archived online discussion. But technology know-how and cost are still major factors that limit read and write access to most information on the internet.
+
+
+Could we instead imagine information appliances like bulletin boards, ATMs, or arcade games that allow anyone to read and write from a public domain history of a public space? Could we imagine a device like a public telephone/ATM (cheap, ubiquitous, public, easy, many vendors) but instead of making a call to a specific person or withdrawing money, it allows you to place a public photo or video online?
+
+
+The result might be a truly shared history of a place, as told by the people to whom it's the most relevant.
+
+
+If it is a truly useful service for collaboration then eventual people will be willing to pay for it?
+
+How would you truly create value locally, not just move venture capital? Despite the current availability of unlimited free digital duplication and distribution, the primary mode of revenue for media businesses and artists is to copyright and charge for duplication. Additional technologies are continually developed to restrict the flow. The current advertising model counts on having large and larger brands to saturate many media channels devilered to consumers.
+
+
+If we consider the distribution and duplication networks to be an advantage, we have to imagine how these services would benefit individuals and physically local communities. What are business models for enrichment of the public domain with no rights reserved? Is the content online or only on site? How can an increased number of smaller media players create a system that is more symmetric that the current system which is dominated by a few large players (media conglomerates, search engines, and operating systems)? Without a costly cell phone, computer, and internet connection, it's difficult for most small players to take advantage of the opportunities to advertise themselves. We hypothesize that this will enable a strong shift towards the local. 
+
+
+Can we imagine media business models that are more like restaurants than television studios? Can we imagine media production models with no residuals on information?
+
+
+
+
+Ongoing Research Projects:
+
+1. The Broadcaster Project / The Twvee Set
+The Broadcaster Project has implemented several one button videobooth physical installations in a variety of locations from Columbia University, to a cart in the streets of Downtown Brooklyn, to an art gallery in Puerto Rico. Each device is coupled to a Youtube channel which archives the history of video messages left on the device. All videos are placed in to the Public Domain, no rights reserved, so they may be easily picked up by other creators or distributors.
+
+A Short introduction to Brooklyn Mobile: http://brooklynmobile.blip.tv/file/3376250/
+Additional information about the project available, including software and links to other channels and installations at http://broadcasterproject.wordpress.com
+
+
+
+2. Memory Wall/Public Timelapse Areas.
+
+How might we reconsider the security camera? Can an area of constant surveillance be changed from a system of punishment to a system of accumulated small rewards?
+
+There are 3 timelapse installations currently setup, one at a public graffitti wall in Cambridge MA, and two in a shared workspace building in Brooklyn.
+
+Hello World: http://www.youtube.com/watch?v=uBnnkvd1ti0#t=2m10s
+Demo of memory wall software: http://www.flickr.com/photos/sixmilliondollardan/4274000537/
+
+3. Daily Personal Timelapse Movies
+
+I make daily timelapse movies of my computer screen and life and post them to Youtube, no rights reserved. They are a document of my process and comment on the heavily produced simple narrative forms broadcasted from large corporations and institutions.
+
+Daily Timelapse Movies http://youtube.com/usemoreproduct
+Daily Timelapse computer screen movies http://youtube.com/danpaluska
+
+Excerpt from Six Months of Life (2010) http://danpaluska.blip.tv/file/3350006/
+
+
