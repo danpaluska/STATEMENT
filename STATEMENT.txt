@@ -1,3 +1,5 @@
+to be updated:more face to face, highest bandwidth. parallel vs serial technology. personal ownership vs community/place ownership. 
+
 Dan Paluska
 Statement of Research.
 
@@ -9,13 +11,11 @@ We've seen the staying power of the traditional media system, and promising work
 
 How do we enable more of what the internet has showed as glimpses of, but delivered unevenly: democratic participation, equalization of power, access to information and networks, small business opportunities online and offline, increased understanding of each other, connectedness, accountability.
 
-Current media systems, including the internet, are heavily consolidated. Despite active dialog on the web, television and movies still dominate the media landscape in terms of influence. Despite active and thriving online community projects such as Linux, Wikipedia, and many others, our physical spaces are still heavily privatized and regulated.
+Current media systems, including the internet, are heavily consolidated. Despite active dialog on the web, consumer advertising still dominates the media landscape in terms of influence. Despite active and thriving online community projects such as Linux, Wikipedia, and many others, our physical spaces are still heavily privatized and regulated.
 
 What are the opportunities available if you want to do social activism, or just be a business person and provide a media service the market isn’t currently providing? How can you extend the analogies from successful online communities into action where it matters: to our shared physical spaces?
 
-
 Hypothesis: A world readable and writeable history or log file enables collaboration.  All successful web based collaborations have such a file (much like courtroom records, bank transactional histories, stock exchange reports, or wire reporting). What would happen if we enabled physical spaces (barber shops, universities, public plazas) with the same feature? What if everyone who uses this space (customer, student, citizen) could view and contribute to telling the story of this place?
-
 
 Currently anyone with a laptop or a smartphone can contribute to an online community. Twitter's success brought a large number of people into the dialogue by allowing normal mobile phones to contribute to the archived online discussion. But technology know-how and cost are still major factors that limit read and write access to most information on the internet.
 
